@@ -1,2 +1,6 @@
 pass
 love
+ham
+lok
+passwd
+charan
